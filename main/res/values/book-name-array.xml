@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="books">
+        <item>Vile Bodies</item>
+        <item>Number the Stars</item>
+        <item>Brave New World</item>
+        <item>Pale Fire</item>
+        <item>In Cold Blood</item>
+        <item>Mortal Engines</item>
+        <item>Gone with the Wind</item>
+        <item>A Passage to India</item>
+        <item>His Dark Materials</item>
+        <item>Of Mice and Men</item>
+    </string-array>
+    <string-array name="authors">
+        <item>Evelyn Waugh</item>
+        <item>Lois Lowry</item>
+        <item>Aldous Huxley</item>
+        <item>Vladimir Nabokov</item>
+        <item>Truman Capote</item>
+        <item>Philip Reeve</item>
+        <item>Margaret Mitchell</item>
+        <item>E. M. Forster</item>
+        <item>Philip Pullman</item>
+        <item>John Steinbeck</item>
+    </string-array>
+</resources>
